@@ -4,7 +4,7 @@
 - 🌟 **Innovating one line of code at a time.**
 - 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**
 - 💬 Ask me about **React, Redux Toolkit**
-- 📫 How to reach me: **trantanphat08012004@gmail.com**
+- 📫 How to reach me: **vothanhtung056@gmail.com**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ttphat204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
