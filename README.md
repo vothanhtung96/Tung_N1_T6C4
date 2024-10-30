@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ttphat204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Innovating+in+Tech.;Building+the+Future.;Coding+for+Tomorrow." alt="Typing SVG" />
 </p>
@@ -17,7 +18,7 @@
 
 
 <p align="center">
-  <img alt="Coding" width="60%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
+  <img alt="Coding" width="60%" src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif" />
 </p>
 
 
