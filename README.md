@@ -26,7 +26,7 @@
   <a href="https://www.facebook.com/thanhtung111.6">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
    <a href="https://www.instagram.com/thnhtung._/">
-    <img src="https://www.instagram.com/" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" />
 </p>
 
 ---
