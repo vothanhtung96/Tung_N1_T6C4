@@ -77,7 +77,7 @@
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vothanhtung96&theme=algolia%22%20alt=%22GitHub%20Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=&theme=algolia" alt="GitHub Trophies" />
 </p>
 
 ---
