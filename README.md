@@ -85,6 +85,17 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vothanhtung96&theme=radical%22%20alt=%22GitHub%20Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vothanhtung96&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vothanhtung96&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vothanhtung96&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+
+  ## 🛠️ Projects:
+
+### [Frontend and Backend for an Emart Website]
+- **Technologies:** ReactJS, MongoDB, Express, NodeJS
+- **Description:** A comprehensive platform for managing sales, including product management, user authentication, order processing, payments, and inventory tracking.
 </p>
